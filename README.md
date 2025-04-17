@@ -40,15 +40,7 @@
 ---
 
 ## 📞 Contact Me
-
-📧 Email: gsvirk917@gmail.com  
+ 
 🔗 LinkedIn: [linkedin.com/in/gurvinder-v-a8425616](https://www.linkedin.com/in/gurvinder-v-a8425616)
 
 ---
-
-## 📁 File Structure
-
-This repo includes:
-- `/projects` → Project documentation & code
-- `/docs` → Certifications, LinkedIn, screenshots
-- `/contact` → Direct contact links
