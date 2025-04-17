@@ -1,0 +1,4 @@
+{
+  "name": "Slack Alert for Case Update",
+  "description": "Triggers Slack message when case is updated."
+}
